@@ -1,4 +1,4 @@
-const API = "http://localhost:5000";
+const API = "https://task-manager-backend-pbj7.onrender.com";
 
 async function signup(){
   const email = document.getElementById("email").value;
